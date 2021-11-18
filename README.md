@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Anihabe
 - 👀 I’m interested in programming and 3D-modeling
 - 🌱 I’m currently learning C#, JavaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord: Bamboozle#4883
 
 <!---
